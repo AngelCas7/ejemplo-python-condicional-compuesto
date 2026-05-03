@@ -1,6 +1,7 @@
 """
-    Ejemplo
+Ejemplo modificado ANGEL
 """
+
 # Solicitar la edad de la persona
 print("Ingrese la edad de la persona:")
 edad = input()
